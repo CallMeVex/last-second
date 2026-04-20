@@ -1,0 +1,7 @@
+# https://supabase.com/docs/guides/cli/config
+
+[functions.openai-chat]
+verify_jwt = true
+
+[functions.revenuecat-webhook]
+verify_jwt = false
